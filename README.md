@@ -15,9 +15,18 @@ LeetCode &amp; DSA Practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
