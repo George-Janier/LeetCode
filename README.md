@@ -7,6 +7,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0046-permutations](https://github.com/George-Janier/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/George-Janier/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
@@ -52,4 +53,8 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/George-Janier/LeetCode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
