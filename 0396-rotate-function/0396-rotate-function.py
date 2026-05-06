@@ -1,13 +1,13 @@
 class Solution(object):
     def maxRotateFunction(self, nums):
         n = len(nums)
-        total_sum = sum(nums)
+        total = sum(nums)
         
         f = sum(i * num for i, num in enumerate(nums))
-        max_val = f
+        m = f
         
         for k in range(1, n):
-            f = f + total_sum - n * nums[-k]
-            max_val = max(max_val, f)
+            f = f + total - n * nums[-k]
+            m = max(m, f)
         
-        return max_val
+        return m
