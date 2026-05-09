@@ -20,6 +20,7 @@ LeetCode &amp; DSA Practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/George-Janier/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Trie
@@ -48,6 +49,7 @@ LeetCode &amp; DSA Practice
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/George-Janier/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/George-Janier/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -65,4 +67,12 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
