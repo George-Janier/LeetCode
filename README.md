@@ -19,6 +19,7 @@ LeetCode &amp; DSA Practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/George-Janier/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,8 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/George-Janier/LeetCode/tree/main/0046-permutations/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
