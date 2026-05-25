@@ -6,6 +6,7 @@ LeetCode &amp; DSA Practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0046-permutations](https://github.com/George-Janier/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/George-Janier/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -79,5 +80,10 @@ LeetCode &amp; DSA Practice
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
