@@ -25,6 +25,7 @@ LeetCode &amp; DSA Practice
 | [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/George-Janier/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/George-Janier/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ LeetCode &amp; DSA Practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/George-Janier/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
