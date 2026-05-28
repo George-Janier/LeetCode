@@ -23,6 +23,7 @@ LeetCode &amp; DSA Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/George-Janier/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/George-Janier/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/George-Janier/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -83,6 +84,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/George-Janier/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
