@@ -13,6 +13,7 @@ LeetCode &amp; DSA Practice
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/George-Janier/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/George-Janier/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/George-Janier/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
