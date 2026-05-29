@@ -8,6 +8,7 @@ LeetCode &amp; DSA Practice
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/George-Janier/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/George-Janier/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/George-Janier/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/George-Janier/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -86,6 +87,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/George-Janier/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/George-Janier/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
