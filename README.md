@@ -94,4 +94,8 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/George-Janier/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
