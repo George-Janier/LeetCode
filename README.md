@@ -14,6 +14,7 @@ LeetCode &amp; DSA Practice
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/George-Janier/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [2126-destroying-asteroids](https://github.com/George-Janier/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/George-Janier/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [2126-destroying-asteroids](https://github.com/George-Janier/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/George-Janier/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [2126-destroying-asteroids](https://github.com/George-Janier/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
