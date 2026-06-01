@@ -13,6 +13,7 @@ LeetCode &amp; DSA Practice
 | [0066-plus-one](https://github.com/George-Janier/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0496-next-greater-element-i](https://github.com/George-Janier/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/George-Janier/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [2126-destroying-asteroids](https://github.com/George-Janier/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/George-Janier/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -39,6 +40,7 @@ LeetCode &amp; DSA Practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/George-Janier/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/George-Janier/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/George-Janier/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/George-Janier/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -101,4 +103,12 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/George-Janier/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/George-Janier/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/George-Janier/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
