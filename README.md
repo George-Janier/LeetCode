@@ -60,6 +60,7 @@ LeetCode &amp; DSA Practice
 | [0002-add-two-numbers](https://github.com/George-Janier/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/George-Janier/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/George-Janier/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/George-Janier/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/George-Janier/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/George-Janier/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -111,4 +113,8 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/George-Janier/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/George-Janier/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
