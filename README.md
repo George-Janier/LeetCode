@@ -11,6 +11,7 @@ LeetCode &amp; DSA Practice
 | [0027-remove-element](https://github.com/George-Janier/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/George-Janier/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/George-Janier/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/George-Janier/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/George-Janier/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/George-Janier/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/George-Janier/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -117,4 +118,8 @@ LeetCode &amp; DSA Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/George-Janier/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/George-Janier/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
